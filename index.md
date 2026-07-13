@@ -10,5 +10,6 @@ I examine human-environment interactions from the perspectives of landscape ecol
  * M.S. in Remotely Sensed Oceanography from the University of Delware
  * Ph.D. in Forestry and Natural Resources from Purdue University
 
- ### Work Experience
+ ### Some Favorite Maps
  
+![Tux, the Linux mascot](/assets/images/tux.png)
