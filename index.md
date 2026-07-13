@@ -3,11 +3,11 @@
 
 I examine human-environment interactions from the perspectives of landscape ecology, land change science, environmental planning, and sustainability science.
 
- ### Online Presence 
+### Online Presence
 * My [LinkedIn](https://www.linkedin.com/in/amelie-davis-a0581959/)
 * My [Google Scholar](https://scholar.google.com/citations?user=8U3ZyJgAAAAJ&hl=en)
 
- ### Education 
+### Education
  * B.A. in Biology from Earlham College
  * M.S. in Remotely Sensed Oceanography from the University of Delware
  * Ph.D. in Forestry and Natural Resources from Purdue University
@@ -17,6 +17,5 @@ I examine human-environment interactions from the perspectives of landscape ecol
 * GISP Certified - #99246 (December 2017-2029) – accredited by the Council of Engineering and Scientific Specialty Boards (CESB)
 * Remote Pilot for sUAS (Small Unmanned Aircraft System) Certification #3984109, FAA (March 2017-2020)
 
-
- ### Some Favorite Maps
+### Some Favorite Maps
  ![Tux, the Linux mascot](/assets/images/tux.png)
