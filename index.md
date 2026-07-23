@@ -17,13 +17,6 @@ I examine human-environment interactions from the perspectives of landscape ecol
 * GISP Certified - #99246 (December 2017-2029) – accredited by the Council of Engineering and Scientific Specialty Boards (CESB)
 * Remote Pilot for sUAS (Small Unmanned Aircraft System) Certification #3984109, FAA (March 2017-2020)
 
-### Some Favorite Maps
-Basic interactive map of one of my favorite parks to take our dog:
-<embed type="text/html" src="/IMG/foxrun_map.html" height="650" width="850">
-
-Mean temperature data for COS from 2000 to 2005:
-<div align="center"><embed type="text/html" src="/IMG/COS_plot_daily.html" width="600" height="400"></div>
-
 ### Research Topics
 #### Land Use Land Cover Change Effects on Pollinators
 My collaborators and I are interested in modeling the effects of land use land cover change on honey production (as a proxy for honeybee health) and wild bee abundance and richness.  This work has been funded by the USGS and USDA.  
@@ -33,3 +26,10 @@ We are interested in studying the provision and distribution of ecosystem servic
 We are interested in studying coupled natural-human systems and how their dynamics affect conservation planning at local to national scales. 
 #### Urban Planning
 We are interested in examining how patterns of grey and green infrastructure (in both 2D and 3D space) affect the quality of life for people in cities.
+
+### Some Interactive Graphics
+Basic interactive map of one of my favorite parks to take our dog:
+<embed type="text/html" src="/IMG/foxrun_map.html" height="650" width="850">
+
+Mean temperature data for COS from 2000 to 2005:
+<div align="center"><embed type="text/html" src="/IMG/COS_plot_daily.html" width="600" height="300"></div>
