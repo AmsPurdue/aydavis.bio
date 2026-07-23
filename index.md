@@ -19,6 +19,7 @@ I examine human-environment interactions from the perspectives of landscape ecol
 
 ### Some Favorite Maps
 <embed type="text/html" src="/IMG/foxrun_map.html" height="650" width="850">
+<embed type="text/html" src="/IMG/boulder_plot.html" width="600" height="600">
 
 ### Research Topics
 #### Land Use Land Cover Change Effects on Pollinators
